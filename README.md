@@ -1,16 +1,76 @@
-# React + Vite
+# 🚀 LevelUp
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+LevelUp is a personal productivity and self-improvement platform that helps users track goals, monitor progress, analyze performance, and stay accountable to their future selves.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## ✨ Features
 
-## React Compiler
+### 📋 Weekly Goal Planner
+- Add goals for each day of the week
+- Mark goals as completed
+- Delete goals when needed
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### 📊 Progress Analytics
+- Goal completion percentage
+- Productivity insights
+- Performance tracking
 
-## Expanding the ESLint configuration
+### 🗓️ Calendar Heatmap
+- GitHub-style contribution heatmap
+- Visualize daily productivity
+- Color-coded progress levels
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### 📦 Time Capsule
+- Write letters to your future self
+- Lock messages until a selected date
+- Open them when the date arrives
+
+### 💾 Local Storage Persistence
+- Data remains saved after page refresh
+- No account required
+
+---
+
+## 🛠️ Tech Stack
+
+- React.js
+- React Router
+- Tailwind CSS
+- Recharts
+- Local Storage API
+- Vite
+
+---
+
+## 📸 Screenshots
+
+### Dashboard
+
+![Dashboard](src/screenshots/dashboard.png)
+
+### Calendar Heatmap
+
+![Calendar](src/screenshots/calendar.png)
+
+### Analytics
+
+![Analytics](src/screenshots/analytics.png)
+
+### Time Capsule
+
+![Time Capsule](src/screenshots/timecapsule.png)
+
+---
+
+## 🎯 Future Improvements
+
+- User Authentication
+- Cloud Database
+- Goal Categories
+- Weekly Reflections
+- AI Productivity Insights
+
+
+
+
