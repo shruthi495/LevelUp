@@ -70,12 +70,7 @@ LevelUp is a personal productivity and self-improvement platform that helps user
 - Goal Categories
 - Weekly Reflections
 - AI Productivity Insights
-- Cross-device Synchronization
 
----
 
-## 👩‍💻 Author
 
-Shruthi
 
-Built to help users continuously Level Up and become a better version of themselves.
