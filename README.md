@@ -47,19 +47,19 @@ LevelUp is a personal productivity and self-improvement platform that helps user
 
 ### Dashboard
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](src/screenshots/dashboard.png)
 
 ### Calendar Heatmap
 
-![Calendar](screenshots/calendar.png)
+![Calendar](src/screenshots/calendar.png)
 
 ### Analytics
 
-![Analytics](screenshots/analytics.png)
+![Analytics](src/screenshots/analytics.png)
 
 ### Time Capsule
 
-![Time Capsule](screenshots/timecapsule.png)
+![Time Capsule](src/screenshots/timecapsule.png)
 
 ---
 
